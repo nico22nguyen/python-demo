@@ -1,6 +1,7 @@
 # A*
-For A* Pathfinding, run A*.py. A pygame screen will pop up with a grid, and you can select a target, a start point, and set up any obstacles (in that order).
-Hit start, and the A* algorithm will run slowly to give a glimpse into how it works. Press Start again to reset.
+For A* Pathfinding, run A*.py
+- A pygame screen will pop up with a grid, and you can select a target, a start point, and set up any obstacles (in that order).
+- Hit "Start", and the A* algorithm will run slowly to give a glimpse into how it works. Press "Start" again to reset.
 
 # Number Guesser
 The Number guesser project was something I took on as my first dive into machine learning. I've always found it interesting so I figured I would try it out.
