@@ -15,4 +15,4 @@ There is also a commented out section of the code that allows you to continue tr
 - The prediction will appear in the terminal window.
 
 # Note:
-For both of these programs, the user interface is not what it should be as a finished application. I was mostly focused on the functionality of the code than the usability as an app since I was the only one who would be using it, so please excuse the poor UI.
+For both of these programs, the user interface is not what it should be as a finished application. I was mostly focused on the functionality of the code than the usability as an app since I was the only one who was intended to use it, so please excuse the poor UI.
