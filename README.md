@@ -1,3 +1,6 @@
+# Note:
+For both of these projects, the user interface is not what it should be as a finished application. I was mostly focused on the functionality of the code than the usability as an app since I was the only one who was intended to use it, so please excuse the poor UI.
+
 # A*
 For A* Pathfinding, run A*.py
 - A pygame screen will pop up with a grid, and you can select a target, a start point, and set up any obstacles (in that order).
@@ -13,6 +16,3 @@ There is also a commented out section of the code that allows you to continue tr
 - Draw a digit in the drawing section (0-9) and the number guesser will attempt to guess what number you drew.
 - The white button resets your drawing and the yellow button submits it to the number guesser to make a prediction.
 - The prediction will appear in the terminal window.
-
-# Note:
-For both of these programs, the user interface is not what it should be as a finished application. I was mostly focused on the functionality of the code than the usability as an app since I was the only one who was intended to use it, so please excuse the poor UI.
