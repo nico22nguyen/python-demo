@@ -21,7 +21,7 @@ screen = pygame.display.set_mode(Grid_obj.WINDOW_SIZE)
 pygame.display.set_caption("A* Pathfinder")
 
 pygame.font.init()
-font = pygame.font.Font("/System/Library/Fonts/NewYork.ttf", 100)
+font = pygame.font.Font(pygame.font.get_default_font(), 100)
 
 #initialize grid
 grid = Grid_obj.Grid(START, END)
